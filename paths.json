@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/repolesssite1/:/",
-    "/content/repolesssite1/configuration:/.helix/config.json",
-    "/content/repolesssite1/metadata:/metadata.json"
+    "/content/repolesssite2/:/",
+    "/content/repolesssite2/configuration:/.helix/config.json",
+    "/content/repolesssite2/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/repolesssite1/"
+    "/content/repolesssite2/"
   ]
 }
